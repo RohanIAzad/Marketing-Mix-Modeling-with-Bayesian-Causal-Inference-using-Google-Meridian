@@ -23,9 +23,14 @@ The project walks through theory, data exploration, modeling assumptions, channe
 │   - Budget optimization
 │
 ├── data/
-│   Input datasets used for demonstration (dummy/synthetic)
-│   MMM_Data_synthetic_modified.csv
-│   model_input2.csv
+│   ├── MMM_Data_synthetic_modified.csv
+│   └── model_input2.csv
+│
+├── outputs/
+│   ├── summary_output2.html
+│   └── optimization_output.html
+│
+└── README.md
 ├── outputs/
 │   Generated reports, plots, and summaries
 │   summary_output2.html
