@@ -6,7 +6,7 @@ The project walks through theory, data exploration, modeling assumptions, channe
 
 
 ### Repository Structure
-
+```
 ├── EDA.ipynb
 │   Exploratory data analysis:
 │   - Spend distribution & coverage
@@ -29,9 +29,4 @@ The project walks through theory, data exploration, modeling assumptions, channe
 ├── outputs/
 │   ├── summary_output2.html
 │   └── optimization_output.html
-│
-└── README.md
-├── outputs/
-│   Generated reports, plots, and summaries
-│   summary_output2.html
-│   optimization_output.html
+```
